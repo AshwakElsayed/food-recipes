@@ -1,4 +1,8 @@
-
+html {
+	
+	scrollbar-width: thin;
+	scrollbar-color: black white;
+}
 ul{
     list-style: none;
 }
